@@ -1,4 +1,4 @@
-package tt
+package util
 
 class Cell(x1: Int, x2: Int, y1: Int, y2: Int, rnd: Double) {
   val xmin = x1
